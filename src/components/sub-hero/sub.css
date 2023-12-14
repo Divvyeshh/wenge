@@ -1,0 +1,123 @@
+@font-face{
+    font-family: 'book';
+    src: url('../../assets/RecklessNeue-Book.ttf')
+}
+
+@font-face{
+    font-family: 'roman';
+    src: url('../../assets/NeueHaasDisplayRoman.ttf')
+}
+
+@font-face{
+    font-family: 'italy';
+    src: url('../../assets/NeueHaasDisplayLightItalic.ttf')
+}
+
+.text-container{
+    margin: 240px 357.5px 60px 358.5px;
+}
+
+.text{
+    font-family: book;
+    color: #131212;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 150%;
+}
+
+.link-container{
+    margin: 0px 357.5px 0px 358.5px;
+}
+
+.link{
+    font-size:20px;
+    font-family: 'roman';
+    color: #717171;
+    line-height: 137.143%;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
+
+.poster1{
+    margin: 280px 80px 24px 80px;
+}
+
+.pos1{
+    width: 1528.5px;
+    height: 620px;
+}
+
+.poster1-sub{
+    margin: 0px 0px 0px 80px;
+}
+
+.poster1-text{
+    font-family: italy;
+    color: #131212;
+    font-size: 20px;
+    line-height: 272.48%;
+}
+
+.poster-container {
+    margin: 191px 0 0 80px; 
+    display: flex;
+}
+    
+.poster-text {
+font-family: italy;
+color: #131212;
+font-size: 20px;
+line-height: 272.48%;
+}
+
+.pos21{
+    width: 745.5px;
+    height: 567.5px;
+}
+
+.pos22{
+    margin-left: 190px;
+    width: 590px;
+    height: 449.5px;
+}
+
+.poster-text2 {
+    font-family: italy;
+    color: #131212;
+    font-size: 20px;
+    line-height: 272.48%;
+    margin-left: 190px; 
+}
+
+.poster3-container{
+    margin:191px 0px 0px 90px;
+}
+
+.pos3{
+    width: 1528.5px;
+    height: 620.5px;
+}
+
+.pos3-text{
+    font-family: italy;
+    color: #131212;
+    font-size: 20px;
+    line-height: 272.48%;
+}
+
+.pos41{
+    width: 745.5px;
+    height: 567.5px;
+}
+
+.poster4-container{
+    display: flex;
+    margin:191px 0px 0px 90px;
+}
+
+.pos41-text{
+    font-family: italy;
+    color: #131212;
+    font-size: 20px;
+    line-height: 272.48%;
+}
